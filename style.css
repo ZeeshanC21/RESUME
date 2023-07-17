@@ -1,0 +1,74 @@
+body{
+    background-color:#001C30;
+}
+
+h1{
+    color:bisque;
+}
+
+.main{
+    text-align: center;
+    font-family: 'Lugrasimo', cursive;
+}
+img{
+    border-radius: 100%;
+    border:5px solid bisque;
+}
+
+.ok{
+    text-align: center;
+    
+}
+.aboutme{
+    
+    border: 0px solid white;
+    padding:5px;
+    border-radius: 10px;
+    color:#64CCC5;
+    text-decoration: none;
+    font-size: larger;
+}
+
+.education{
+    
+    border: 0px solid white;
+    padding:5px;
+    border-radius: 10px;
+    color:#64CCC5;
+    text-decoration: none;
+    font-size: larger;
+}
+
+.workexperience{
+    
+    border: 0px solid white;
+    padding:5px;
+    border-radius: 10px;
+    color:#64CCC5;
+    text-decoration: none;
+    font-size: larger;
+}
+
+.hobbies-skills{
+    
+    border: 0px solid white;
+    padding:5px;
+    border-radius: 10px;
+    color:#64CCC5;
+    text-decoration: none;
+    font-size: larger;
+}
+
+.achievements{
+    
+    border: 0px solid white;
+    padding:5px;
+    border-radius: 10px;
+    color:#64CCC5;
+    text-decoration: none;
+    font-size: larger;
+}
+
+footer{
+    color:bisque;
+}
